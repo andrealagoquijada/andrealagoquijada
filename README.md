@@ -1,88 +1,28 @@
 # Andrea Lago
 
-### Cybersecurity Governance & Risk Consultant
-**Technology Risk · Compliance · LegalTech**
+**Cybersecurity Governance, Risk & Compliance · Legal Background**
 
-Cybersecurity GRC professional with a legal background and experience in technology risk, regulatory compliance, cybersecurity governance and executive reporting.
+I am a cybersecurity GRC consultant with a legal background and experience in risk assessment, security controls, compliance and executive reporting.
 
-My work focuses on connecting regulatory requirements, technical teams and business needs to support risk management, governance processes and informed decision-making.
+My work connects regulatory requirements, technology risks and business needs.
 
-I am particularly interested in exploring how technology, artificial intelligence and automation can improve cybersecurity governance, risk assessment and compliance processes.
+## Professional focus
 
----
+- Cybersecurity governance and technology risk.
+- Security controls and compliance.
+- Risk indicators and executive reporting.
+- Legal and regulatory analysis.
 
-## Areas of Expertise
+## What I am building
 
-**Cybersecurity Governance & Risk**
-- Cybersecurity Governance
-- Technology Risk Management
-- Security Controls & Compliance
-- Risk Indicators (KRIs / KPIs)
-- Executive Reporting
-- Stakeholder Coordination
+I am learning to develop practical tools with AI assistance, focusing on cybersecurity GRC, LegalTech and process automation.
 
-**Regulatory & Compliance**
-- ISO 27001
-- NIS2
-- SWIFT CSP
-- Security Governance Frameworks
-- Regulatory Analysis
+This GitHub profile will document my independent projects as they progress, using synthetic examples and documenting their scope and limitations.
 
-**Technology & Innovation**
-- AI Governance — Area of interest
-- LegalTech — Area of interest
-- Process Automation — Learning & Exploration
-- Digital Transformation
+## Interests
 
----
+AI governance, LegalTech and digital transformation.
 
-## Independent Projects
+## Portfolio
 
-A collection of personal projects exploring practical applications of technology in cybersecurity governance, risk management and compliance.
-
-### Cyber GRC Dashboard
-**Status: Planned**
-
-A personal project focused on designing a cybersecurity governance dashboard for monitoring risk indicators, identifying deviations and tracking remediation plans.
-
-### AI Risk Assessment
-**Status: Planned**
-
-An exploratory project focused on AI governance, risk assessment methodologies and responsible AI management.
-
----
-
-## Professional Background
-
-My professional experience combines cybersecurity consulting with a legal background.
-
-I have worked on cybersecurity governance, risk monitoring, compliance assessments and executive reporting in international and regulated environments.
-
-My legal education provides an additional perspective on regulatory interpretation, governance and risk management.
-
----
-
-## Connect
-
-**Professional Portfolio:** https://andrealago.com
-
-**GitHub:** https://github.com/andrealagoquijada
-
----
-
-*Independent projects developed for professional learning and exploration.*
-
-<!--
-**andrealagoquijada/andrealagoquijada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[andrealago.com](https://andrealago.com)
